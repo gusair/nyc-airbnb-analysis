@@ -78,7 +78,7 @@ Welcome to this exploratory data analysis project focused on Airbnb listings in 
 
 ## ✍️ Author
 
-Project by [Your Name]  
+Project by Augusto de Jesus  
 Built as part of a hands-on learning journey in Data Science and exploratory analysis.
 
 ---
