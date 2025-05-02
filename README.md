@@ -50,11 +50,10 @@ Welcome to this exploratory data analysis project focused on Airbnb listings in 
 | Bronx          | 118.24              |
 
 ### 🏘️ Most Expensive Neighborhoods (based on average price)
-- Rossville (Staten Island)
-- Fort Wadsworth (Staten Island)
-- NoHo, SoHo, Tribeca, Battery Park (Manhattan)
-
-⚠️ Note: Some outliers affected the ranking of neighborhoods, such as extremely high-priced listings in less popular areas. This was later validated by analyzing the number of listings per neighborhood.
+- NoHo
+- SoHo
+- Tribeca
+- Battery Park (Manhattan)
 
 ---
 
